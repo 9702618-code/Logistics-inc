@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "serialNumber": "STK-2026-X14",
+    "model": "Crown FC 4500",
+    "zoneId": "zone-a1",
+    "maxOperatingHeightMeters": 13,
+    "currentWeightCapacityKg": 1500,
+    "operationalStatus": "in_service",
+    "batteryLevel": 85,
+    "lastInspectionDate": "2026-10-15",
+    "zone": {
+      "id": "zone-a1",
+      "name": "Сектор палетування А-1",
+      "warehouseCode": "WH-NORTH-01",
+      "maxPayloadCapacityKg": 5000,
+      "status": "active"
+    }
+  }
+]
